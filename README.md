@@ -24,10 +24,10 @@ PDF-версия: `reports/dashboard.pdf`
 ---
 
 ## Структура репозитория
-- `notebooks/01_eda.ipynb` — ноутбук с анализом (EDA)  
+- `notebooks/kpi_eda.ipynb` — ноутбук с анализом (EDA)  
 - `reports/dashboard.pdf` — Power BI dashboard (экспорт)  
 - `reports/figures/` — изображения для README  
-- `data/raw/` — место для исходных данных (в репозиторий не загружаются)
+- `data/raw/` — место для исходных данных 
 
 ---
 
@@ -42,7 +42,7 @@ pip install -r requirements.txt
 jupyter lab
 ```
 3) Открыть ноутбук:
-`notebooks/01_eda.ipynb`
+`notebooks/kpi_eda.ipynb`
 
 ---
 
@@ -65,7 +65,7 @@ jupyter lab
 ---
 
 ## Где смотреть результаты
-- Ноутбук с анализом: `notebooks/01_eda.ipynb`
+- Ноутбук с анализом: `notebooks/kpi_eda.ipynb`
 - Дашборд (PDF): `reports/dashboard.pdf`
 
 ---
