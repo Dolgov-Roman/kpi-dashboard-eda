@@ -18,17 +18,4 @@ pip install -r requirements.txt
 jupyter lab```
 
 
-Commit.
 
----
-
-## Шаг 4 — добавить `requirements.txt` (если ещё нет)
-**Add file → Create new file** → `requirements.txt`:
-
-```txt
-pandas
-numpy
-matplotlib
-openpyxl
-jupyter
-```
